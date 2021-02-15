@@ -65,6 +65,23 @@ th {
 tr:nth-child(even) {
     background-color: #e2e2e2;
 }
+.PETRUCHIO:hover{
+    text-shadow: 2px 2px;
+    border-style: solid;
+
+}
+.GRUMIO:hover{
+    text-shadow: 2px 2px;
+    border-style: solid;
+
+}
+.HORTENSIO:hover{
+    text-shadow: 2px 2px;
+    border-style: solid;
+
+}
+
+
 
 
   
