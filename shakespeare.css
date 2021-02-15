@@ -1,0 +1,54 @@
+.PETRUCHIO {
+    color: rgb(38, 106, 138);
+    font-family: initial;
+    font-size: 100%;
+}
+
+.HORTENSIO {
+    color: rgb(38, 138, 76);
+    font-family: initial;
+    font-size: 100%;
+}
+.GRUMIO {
+    color: rgb(126, 60, 106);
+    font-family: initial;
+    font-size: 100%;
+
+}
+.direction1:hover {
+    text-shadow: rgb(184, 24, 45) 1px 0 12px;
+    border: 1px solid;
+    display: inline;
+}
+.directions2:hover {
+    text-shadow: rgb(100, 56, 189) 1px 0 11px;
+    border: 1px solid;
+    display: inline;
+}
+.directions3:hover {
+    text-shadow: rgb(22, 99, 250) 1px 0 13px;
+    border: 1px solid;
+    display: inline;
+}
+
+.paragraph {
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+
+}
+.direction1{
+    background-color: lightblue;
+}
+.directions2{
+    background-color: lightgray;
+}
+.directions3{
+    background-color: lightpink;
+}
+
+
+  
+    
+
+
